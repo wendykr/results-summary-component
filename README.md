@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution URL](https://github.com/wendykr/results-summary-component)
-- Live Site URL: [Live site URL](wendykr.github.io/results-summary-component/)
+- Live Site URL: [Live site URL](https://wendykr.github.io/results-summary-component/)
 
 ## My process
 
