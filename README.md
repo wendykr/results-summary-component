@@ -48,4 +48,4 @@ My goal was to recall the knowledge gained so far from the previous course on th
 
 ## Author
 
-- Frontend Mentor - [@ywendykr](https://www.frontendmentor.io/profile/wendykr)
+- Frontend Mentor - [@wendykr](https://www.frontendmentor.io/profile/wendykr)
